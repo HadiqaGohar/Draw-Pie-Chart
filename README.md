@@ -38,7 +38,8 @@ Each slice is visually proportional and color-coded for clarity.
 ## 🖼️ Screenshot
 
 > *You can add a screenshot of your app here*  
-![Pie Chart Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/5c044ead-4c33-480c-acdd-6500479b70e8)
+
 
 ---
 
