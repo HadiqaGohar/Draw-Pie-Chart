@@ -57,7 +57,7 @@ Each slice is visually proportional and color-coded for clarity.
 
 3. 🚀 **Run the Streamlit app**
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ---
@@ -66,7 +66,7 @@ Each slice is visually proportional and color-coded for clarity.
 
 ```
 📦 my-skills-piechart-app
-├── app.py               # Main Streamlit application
+├── main.py               # Main Streamlit application
 ├── README.md            # Project documentation
 ├── requirements.txt     # Dependencies
 └── screenshot.png       # Optional preview image
